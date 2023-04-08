@@ -19,11 +19,17 @@ JATE is an online/offline text editor that highlights your JavaScript code.
 
 To install necessary dependencies, run the following command:
 
+```
 npm i
+```
 
 ## Usage
 
+```
 npm test
+```
+
+A link to the deployed application - https://mysterious-beyond-40401.herokuapp.com/
 
 ## License
 
