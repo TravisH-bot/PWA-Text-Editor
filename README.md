@@ -18,12 +18,26 @@ JATE is an online/offline text editor that highlights your JavaScript code.
 ## Installation
 
 To install necessary dependencies, run the following command:
+Note: You may need to run the command in the server directrory and client if you fail to see node_modules.
 
 ```
 npm i
 ```
 
+Once the dependencies are installed, run the following commands from the root directory:
+
+```
+npm run build
+```
+
+```
+npm start dev
+```
+
+
 ## Usage
+
+![jate1](https://user-images.githubusercontent.com/79767820/230743647-7d023354-283a-4c7f-952d-e782f3cfd239.png)
 
 ```
 npm test
@@ -37,7 +51,7 @@ This project is licensed under the [APACHE 2.0](https://choosealicense.com/licen
 
 ## Contributing
 
-You will need to run npm run build to create your dist files and then npm start dev to launch the server.
+Crete an issue or email directly.
 
 ## Tests
 
